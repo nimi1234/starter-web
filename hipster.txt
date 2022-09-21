@@ -1,2 +1,4 @@
 this is a test
 this is another line
+yet another line to be added
+more dummy text
