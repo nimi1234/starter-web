@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 ## Deployment
 here is some more text
 and some more text
+
+###copyright
+year 2022
