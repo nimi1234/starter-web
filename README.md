@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 And this is an extra row just to showcase
 
 Adding a line for rebasing example
+Then, more changes from myfeature branch too
 
 ## Purpose
 
