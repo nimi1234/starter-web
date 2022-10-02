@@ -7,6 +7,9 @@ And this is an extra row just to showcase
 
 Sample website with plenty of files for demos
 
+##How to Contribute
+just have a great time while learning
+
 ## Deployment
 here is some more text
 and some more text
