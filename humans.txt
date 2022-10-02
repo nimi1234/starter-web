@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nimrod Rosen	just.one@email.com
 
 # THANKS
 
