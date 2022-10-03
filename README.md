@@ -18,4 +18,4 @@ here is some more text
 and some more text
 
 ###copyright
-year 2022
+year 2022. All rights reserved
