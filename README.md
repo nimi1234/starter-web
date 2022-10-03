@@ -6,6 +6,8 @@ And this is an extra row just to showcase
 Adding a line for rebasing example
 Then, more changes from myfeature branch too
 
+THIS IS AN EMERGECY FIX!
+
 ## Purpose
 
 Sample website with plenty of files for demos
